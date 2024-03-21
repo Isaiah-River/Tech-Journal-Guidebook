@@ -7,6 +7,7 @@ https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/assets/122812369/86f5149
 https://github.com/Isaiah-River/SYS-265-02-SYS-Admin-II/assets/122812369/86f51491-c12b-4164-89fb-c6a1ff4aa91f">
 </picture>
 -->
+![TitleImage](https://github.com/Isaiah-River/Tech-Journal-Guidebook/assets/122812369/88d88a27-48cd-4ee5-b8b5-fb7ad240cacc)
 
 # Navigation 🗺️ 
 * [Overview](https://github.com/Isaiah-River/Tech-Journal-Guidebook/wiki#overview-)
